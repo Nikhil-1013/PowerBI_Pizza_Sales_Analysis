@@ -17,3 +17,5 @@ revenue at least by 5% in the next quarter.
 - Excel
 - MySQL
 - DAX
+- Matplotlib
+- Seaborn 
